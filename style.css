@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, Tahoma, sans-serif;
+    text-align: center;
+    list-style-position: inside;
+}
+
+h2 {
+    color: black;
+    text-decoration: underline;
+}
+
+.recipe-page {
+    width: 600px;
+    background-color: bisque;
+    margin: auto;
+}
+
+.main-page-recipe-list {
+    border: 2px solid black;
+    background-color: antiquewhite;
+    width: 400px;
+    margin: auto;
+}
