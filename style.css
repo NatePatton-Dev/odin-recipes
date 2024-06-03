@@ -13,6 +13,7 @@ h2 {
     width: 600px;
     background-color: bisque;
     margin: auto;
+    padding: 10px;
 }
 
 .main-page-recipe-list {
@@ -20,4 +21,22 @@ h2 {
     background-color: antiquewhite;
     width: 400px;
     margin: auto;
+    padding-left: 0;
+}
+
+.recipe-list {
+    margin: 10px;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+ol {
+    padding-left: 0px;
+}
+
+img {
+    border: 1px solid gray;
+
 }
