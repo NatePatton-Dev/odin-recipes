@@ -10,7 +10,7 @@ h2 {
 }
 
 .recipe-page {
-    width: 600px;
+    max-width: 600px;
     background-color: bisque;
     margin: auto;
     padding: 10px;
@@ -38,5 +38,4 @@ ol {
 
 img {
     border: 1px solid gray;
-
 }
